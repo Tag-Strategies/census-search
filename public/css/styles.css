@@ -1,6 +1,7 @@
 /*body*/
-body {
+.nav {
     font-size: 12px;
+    background-color: blue;
 }
 
 /*header*/
